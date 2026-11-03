@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lautaro Avila
+#        Lautaro Avila
 
 ### Full Stack Developer | Angular | Java & Spring Boot | PostgreSQL
 
