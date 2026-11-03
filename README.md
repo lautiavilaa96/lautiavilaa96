@@ -13,9 +13,7 @@
   <a href="mailto:lautiavila96@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email" />
   </a>
-  <a href="https://github.com/lautiavilaa96?tab=repositories">
-    <img src="https://img.shields.io/badge/GITHUB-MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub repositories" />
-  </a>
+
   <img src="https://img.shields.io/badge/BASED%20IN-ARGENTINA-1F6FEB?style=for-the-badge&logoColor=white" alt="Based in Argentina" />
 </div>
 
