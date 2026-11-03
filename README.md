@@ -34,7 +34,7 @@ const lautaro = {
     "Relational databases",
     "Application deployment and support"
   ],
-  education: "Bachelor's Degree in Computer Science (in progress)"
+  SKILLS: "Angular JS, Spring boot, Postgresql"
 };
 ```
 
