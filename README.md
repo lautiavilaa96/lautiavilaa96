@@ -32,7 +32,7 @@ const lautaro = {
     "Relational databases",
     "Application deployment and support"
   ],
-  SKILLS: "Angular JS, Spring boot, Postgresql"
+  skills: ["Angular", "TypeScript", "Java", "Spring Boot", "PostgreSQL"]
 };
 ```
 
@@ -47,47 +47,69 @@ const lautaro = {
 
 <div align="center">
 
-**Languages**
+<h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,py,php&theme=dark" alt="TypeScript, JavaScript, Java, Python and PHP" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/><br/><sub>Java</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="45"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="45"/><br/><sub>PHP</sub></td>
+</tr>
+</table>
 
-<br /><br />
+<h3>Frontend</h3>
 
-**Frontend**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="45"/><br/><sub>Angular</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/><br/><sub>CSS3</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" alt="Angular, HTML and CSS" />
+<h3>Backend & Frameworks</h3>
 
-<br /><br />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45"/><br/><sub>Spring Boot</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="45"/><br/><sub>Maven</sub></td>
+</tr>
+</table>
 
-**Backend & Frameworks**
+<h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,maven&theme=dark" alt="Spring Boot, Node.js and Maven" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/><br/><sub>MySQL</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white"/><br/><sub>Microsoft SQL Server</sub></td>
+</tr>
+</table>
 
-<br /><br />
+<h3>Tools & Platforms</h3>
 
-**Databases**
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45"/><br/><sub>Postman</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="45"/><br/><sub>IntelliJ IDEA</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/><br/><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="45"/><br/><sub>Ubuntu</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=windows&theme=dark" width="45"/><br/><sub>Windows</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
+<h3>Additional Experience</h3>
 
-<br />
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" alt="Microsoft SQL Server" />
-
-<br /><br />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,ubuntu,windows&theme=dark" alt="Git, GitHub, Postman, IntelliJ IDEA, Visual Studio Code, Ubuntu and Windows" />
-
-<br /><br />
-
-**Additional Experience**
-
-<img src="https://img.shields.io/badge/GeneXus%2016%2F17-4D5EAA?style=flat-square" alt="GeneXus 16/17" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logoColor=white" alt="IIS" />
-<img src="https://img.shields.io/badge/SOAP-356C97?style=flat-square" alt="SOAP web services" />
-<img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-455A64?style=flat-square" alt="Scrum and Kanban" />
+<img src="https://img.shields.io/badge/GeneXus%2016%2F17-4D5EAA?style=flat-square" alt="GeneXus"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/>
+<img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square" alt="IIS"/>
+<img src="https://img.shields.io/badge/SOAP-356C97?style=flat-square" alt="SOAP"/>
+<img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-455A64?style=flat-square" alt="Agile"/>
 
 </div>
 
