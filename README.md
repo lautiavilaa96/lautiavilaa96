@@ -27,6 +27,65 @@ const lautaro = {
 - 🤝 Used to collaborating with end users, Product Owners, and Agile teams.
 - 🎓 Pursuing a **Bachelor's Degree in Computer Science** at Universidad Siglo 21.
 
+## 🚀 Featured Projects
+
+A selection of applications I developed as part of my professional work at EPRE, ranging from public-facing services to internal management platforms.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Electricity Claims Portal
+
+<a href="https://www.eprern.gov.ar/reclamos-web/">
+  <img src="assets/projects/reclamos.png" width="100%" alt="Screenshot of the electricity claims form with fictional example data" />
+</a>
+
+Public-facing Angular application for electricity service claims, including structured forms, supporting documents and contextual interfaces.
+
+**Stack:** Angular · TypeScript · HTML · CSS
+
+**[Live website](https://www.eprern.gov.ar/reclamos-web/)** · **[Source code](https://github.com/lautiavilaa96/reclamos-web-nuevo)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Certified Installers Registry
+
+<a href="https://www.eprern.gov.ar/app-instalador/">
+  <img src="assets/projects/instaladores.png" width="100%" alt="Screenshot of the installers registry dashboard with fictional example data" />
+</a>
+
+Registry management system supporting records, verification workflows, training status and administrative oversight.
+
+**Stack:** Angular · PHP · Relational database
+
+**[Live website](https://www.eprern.gov.ar/app-instalador/)**
+
+</td>
+</tr>
+</table>
+
+### 🚗 Vehicle Fleet Management Platform
+
+An internal platform for managing vehicle requests, approval workflows, scheduling, incident reports and maintenance alerts.
+
+<p align="center">
+  <img src="assets/projects/flota-panel.png" width="100%" alt="Fleet management dashboard showing fictional example vehicles and notices" />
+</p>
+<p align="center">
+  <img src="assets/projects/flota-calendario.png" width="49%" alt="Vehicle booking calendar with fictional vehicle identifiers" />
+  <img src="assets/projects/flota-login.png" width="49%" alt="Fleet administration login with demo username and no real credentials" />
+</p>
+
+**Stack:** Angular · TypeScript · Python / FastAPI · PostgreSQL · Docker
+
+**Highlights:** Booking and approvals · Calendar availability · Maintenance alerts · Incidents and notices
+
+🔒 **Internal application — no public demo.** Screenshots use fictional sample data. Production source and infrastructure are not publicly exposed.
+
+<sub>Professional work at EPRE; publication of internal application images is subject to organizational authorization.</sub>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -80,18 +139,6 @@ const lautaro = {
 <img src="https://img.shields.io/badge/Scrum%20%2F%20Kanban-455A64?style=flat-square" alt="Scrum and Kanban" />
 </div>
 
-## 🚀 Featured Project
-
-### [Reclamos Web — Angular application](https://github.com/lautiavilaa96/reclamos-web-nuevo)
-
-An Angular and TypeScript application with claim forms, file-upload interfaces, contextual dialogs, and claim-related workflows.
-
-**Stack:** Angular · TypeScript · HTML · CSS
-
-**Explore:** [Source code and documentation](https://github.com/lautiavilaa96/reclamos-web-nuevo)
-
-> Other professional projects include internal enterprise applications. Their source code is not publicly available.
-
 ## 💼 Professional Experience
 
 **EPRE — Full Stack Developer** | *July 2023 – Present*
@@ -110,6 +157,10 @@ Developed and modernized GeneXus applications using Java backends, MySQL, SOAP i
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautiavilaa96&layout=compact&theme=tokyonight&hide_border=true" alt="Languages in public repositories" />
 </div>
 </details>
+
+## 🗂️ Earlier Projects
+
+I also keep an archive of my earlier programming projects on my previous GitHub account: **[lautiavila96](https://github.com/lautiavila96?tab=repositories)**. These repositories document earlier stages of my learning and development experience.
 
 ## 📬 Let's Connect
 
