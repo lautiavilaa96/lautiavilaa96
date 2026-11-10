@@ -17,7 +17,7 @@ const lautaro = {
   role: "Full Stack Developer",
   location: "Cipolletti, Río Negro, Argentina",
   currentRole: "Full Stack Developer at EPRE",
-  specialties: ["Angular", "TypeScript", "Java", "Spring Boot", "PostgreSQL"],
+  skills: ["Angular", "TypeScript", "Java", "Spring Boot", "PostgreSQL"],
   interests: ["Business applications", "API integration", "Software architecture"]
 };
 ```
